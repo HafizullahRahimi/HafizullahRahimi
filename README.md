@@ -23,7 +23,6 @@
 - [x] [Source code](https://github.com/HafizullahRahimi/gymnasiearbete-project "Github")
 
 
----
 ## Yrkeshögskolan 
 
 
