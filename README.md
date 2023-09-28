@@ -8,7 +8,7 @@
 - [x] JavaScript
 - [x] [Source code](https://github.com/HafizullahRahimi/project1 "Github")
 
-### Project2 (Andra APL):
+### My restaurant (Andra APL):
 - [x] HTML5
 - [x] SCSS
 - [x] JavaScript
