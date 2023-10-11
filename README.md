@@ -60,3 +60,23 @@
 - [x] Mysqli (Data)
 - [x] [Source code](https://github.com/HafizullahRahimi/php-parking-mysqli "Github")
 
+### BudgetCoolBooks:
+-   [x] ASP.Net Core MVC
+-   [x] Entity Framework Core (Code First)
+-   [x] Microsoft SQL server
+-   [x] Agil
+-   [x] HTML5
+-   [x] CSS3
+-   [x] Boostrap
+-   [x] jQuery AJAX
+-   [x] [Source code](https://github.com/Efjai/BudgetCoolBooks "Github")
+
+inlogg är:
+tobias@mail.com
+hafiz@mail.com
+fredrik@mail.com
+robin@mail.com
+david@mail.com
+
+Lösenord för samtliga är Admin1!
+
