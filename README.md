@@ -7,6 +7,7 @@
 - [x] CSS3
 - [x] JavaScript
 - [x] [Source code](https://github.com/HafizullahRahimi/project1 "Github")
+- [x] [Live Demo]("https://hafizullahrahimi.github.io/project1/")
 
 ### My restaurant (Andra APL):
 - [x] HTML5
@@ -14,6 +15,7 @@
 - [x] JavaScript
 - [x] Språk: English och Persian (RTL)
 - [x] [Source code](https://github.com/HafizullahRahimi/project2 "Github")
+- [x] [Live Demo]("https://hafizullahrahimi.github.io/project2/")
 
 ### Gymnasiearbete:
 - [x] HTML5
@@ -21,6 +23,7 @@
 - [x] JavaScript
 - [x] WebPack v5
 - [x] [Source code](https://github.com/HafizullahRahimi/gymnasiearbete-project "Github")
+- [x] [Live Demo]("https://hafizullahrahimi.github.io/gymnasiearbete-project/")
 
 
 ## Yrkeshögskolan 
