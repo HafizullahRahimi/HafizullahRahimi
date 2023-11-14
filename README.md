@@ -83,3 +83,13 @@ david@mail.com
 
 Lösenord för samtliga är Admin1!
 
+### BeverlyHillsZoo:
+-   [x] ASP.Net Core MVC 7
+-   [x] Entity Framework Core (Code First)
+-   [x] Microsoft SQL server
+-   [x] HTML5
+-   [x] CSS3
+-   [x] Boostrap
+-   [x] [Source code](https://github.com/HafizullahRahimi/BeverlyHillsZoo "Github")
+
+
