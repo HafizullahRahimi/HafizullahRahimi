@@ -25,16 +25,6 @@
 
 ## Yrkeshögskolan 
 
-
-### Slutprojekt Prague Parking C# .Net:
-- [x] C#
-- [x] [Source code](https://github.com/HafizullahRahimi/Slutuppgift-Prague-Parking-C-.NET "Github")
-
-### Slutprojekt databas och databasdesign (Prague Parking):
-- [x] C#
-- [x] Microsoft SQL server
-- [x] [Source code](https://github.com/HafizullahRahimi/slutuppgift-databas-och-databasdesign "Github")
-
 ### Slutprojekt Agil projektmetodik samt HTML och CSS:
 - [x] Agil
 - [x] HTML5
