@@ -41,25 +41,6 @@
 - [x] CSS3
 - [x] [Source code](https://github.com/HafizullahRahimi/slutprojekt-Agil-projektmetodik-samt-HTML-och-CSS "Github")
 
-
-### Sinus web shop:
-- [x] PHP
-- [x] Boostrap
-- [x] Mysqli
-- [x] [Source code](https://github.com/HafizullahRahimi/slutuppgift-php-hafiz "Github")
-
-### Parking med csv:
-- [x] PHP
-- [x] Boostrap
-- [x] csv (Data)
-- [x] [Source code](https://github.com/HafizullahRahimi/php-parking-csv "Github")
-
-### Parking med Mysqli:
-- [x] PHP
-- [x] Boostrap
-- [x] Mysqli (Data)
-- [x] [Source code](https://github.com/HafizullahRahimi/php-parking-mysqli "Github")
-
 ### BudgetCoolBooks:
 -   [x] ASP.Net Core MVC
 -   [x] Entity Framework Core (Code First)
